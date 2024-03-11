@@ -1,0 +1,222 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+a:hover {
+    text-decoration: underline0;
+}
+
+#text :link,
+#text a:visited {
+    color: #9e7b1c;
+    padding: 8px 12px;
+}
+
+#text a:hover {
+    color: #f7b600;
+    background-color: #af991e;
+    text-decoration: none;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e6e6e6;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link,
+a:visited {
+    color: #9e7b1c;
+}
+
+#cabeca {
+
+    padding: 80px;
+    background-color: #262318;
+
+}
+
+#text {
+    float: right;
+    padding: 10px;
+    color: #ea9d3e
+}
+
+#padders {
+    padding-right: 100px;
+}
+
+#principal {
+
+    padding: 15px;
+}
+
+#museu {
+    padding: 10px;
+    float: left;
+    clear: left;
+}
+
+
+
+#inform {
+    padding-left: 105px;
+    float: left;
+    clear: left;
+}
+
+li {
+    color: black;
+    width: 300px;
+    padding-left: 15px;
+}
+
+#textoverde {
+    color: #448e3f;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.textolaranja {
+    color: #c39050;
+    font-weight: normal;
+    list-style-type: disc;
+
+}
+
+.textolaranjac {
+    color: #c39050;
+    font-weight: normal;
+    list-style-type: disc;
+    padding-left: 5px;
+}
+
+.textolaranjab {
+    color: #c39050;
+    font-weight: bold;
+    list-style-type: disc;
+
+}
+
+#historia {
+    float: right;
+    padding: 10px;
+    clear: right;
+
+}
+
+#logo {
+    padding: 10px;
+    float: left;
+}
+
+#central {
+    text-align: left;
+    float: left;
+    padding-left: 90px;
+}
+
+#textonormal {
+    color: #181818;
+    width: 300px;
+    text-align: left;
+    font-weight: normal;
+
+}
+
+#visita {
+    background-color: #cdc8b1;
+    width: 350px;
+    height: 160px;
+    float: right;
+}
+
+
+#visitatexto {
+    padding: 30px;
+    color: #795a34;
+    font-weight: bold;
+}
+
+.branco {
+    color: #e6e6e6;
+}
+
+#botao {
+    padding: 10px;
+    background-color: #9b9271;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #6b654f;
+
+}
+
+#imagenss {
+    padding: 25px;
+}
+
+
+#image1 {
+    padding: 25px;
+    float: left;
+    background-image: url(img/fundo-foto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#image2 {
+    padding: 25px;
+    float: right;
+    background-image: url(img/fundo-foto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#image3 {
+    padding: 25px;
+    float: left;
+    background-image: url(img/fundo-foto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#image4 {
+    padding: 25px;
+    float: right;
+    background-image: url(img/fundo-foto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#visitab {
+    background-color: #e0dac9;
+    width: 350px;
+    height: 400px;
+    float: right;
+
+}
+
+#footers {
+    text-align: center;
+    clear: both;
+    padding: 25px;
+}
+
+#footext {
+    a {
+        padding: 10px;
+    }
+
+}
+
+#backgroundf{
+    background-image: url("fundo-foto.png");
+}
